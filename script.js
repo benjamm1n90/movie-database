@@ -1,4 +1,4 @@
-// Replace 'YOUR_API_KEY' with your actual API key from TMDb or OMDb
+
 const apiKey = '7c97d79abbb18bab9ea8a5a3a2cef427';
 const searchInput = document.getElementById('searchInput');
 const searchButton = document.getElementById('searchButton');
